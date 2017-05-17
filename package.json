@@ -1,0 +1,32 @@
+{
+  "name": "clonix",
+  "version": "0.0.0",
+  "description": "[NOT READY] Clonix backups CLI service. Backup your web server",
+  "main": "index.js",
+  "bin": "./bin/clonix.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clonixru/node-clonix-cli.git"
+  },
+  "keywords": [
+    "backup",
+    "sass",
+    "service"
+  ],
+  "author": "clonixru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clonixru/node-clonix-cli/issues"
+  },
+  "homepage": "https://github.com/clonixru/node-clonix-cli#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  },
+  "dependencies": {
+    "pouchdb-upsert": "^2.2.0",
+    "yargs": "^8.0.1"
+  }
+}
