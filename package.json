@@ -1,6 +1,6 @@
 {
   "name": "clonix",
-  "version": "0.0.0",
+  "version": "0.0.0-pw",
   "description": "[NOT READY] Clonix backups CLI service. Backup your web server",
   "main": "index.js",
   "bin": "./bin/clonix.js",
