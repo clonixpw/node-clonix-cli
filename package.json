@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clonixru/node-clonix-cli.git"
+    "url": "git+https://github.com/clonixpw/node-clonix-cli.git"
   },
   "keywords": [
     "backup",
     "sass",
     "service"
   ],
-  "author": "clonixru",
+  "author": "clonixpw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clonixru/node-clonix-cli/issues"
+    "url": "https://github.com/clonixpw/node-clonix-cli/issues"
   },
-  "homepage": "https://github.com/clonixru/node-clonix-cli#readme",
+  "homepage": "https://github.com/clonixpw/node-clonix-cli#readme",
   "devDependencies": {
     "ava": "^0.19.1"
   },
